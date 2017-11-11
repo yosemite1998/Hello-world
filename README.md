@@ -1,2 +1,2 @@
 # Hello-world
-My 1st project on Git
+HI all, This is the first of my projects on git.
